@@ -1,6 +1,8 @@
 package kr.androy;
 
-public class AndroyApplication {
+import android.app.Application;
+
+public class AndroyApplication extends Application {
 
 
 }
