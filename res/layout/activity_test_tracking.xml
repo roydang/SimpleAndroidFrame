@@ -6,13 +6,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
-    <TextView 
-        android:layout_width="wrap_content"
-    	android:layout_height="wrap_content"
-    	android:text="Hello" />
     <Button 
-        android:id="@+id/tracking_test_btn"
+        android:id="@+id/tracking_start_btn"
         android:layout_width="wrap_content"
     	android:layout_height="wrap_content"
-    	android:text="Tracking Test"/>
+    	android:text="Tracking Start"/>
+    <Button 
+        android:id="@+id/tracking_stop_btn"
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:text="Tracking Stop"/>    
 </LinearLayout>
