@@ -1,4 +1,4 @@
-package kr.androy.util.log;
+package kr.androy.base.util.log;
 
 import java.util.logging.Level;
 
